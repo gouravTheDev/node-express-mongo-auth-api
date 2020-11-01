@@ -1,5 +1,5 @@
-# Node-Express-Mongodb
-If you want to make an API set for your application with node-mongo-express and follow a proper folder structure, then fork this repo.
+# Node-Express-Mongodb AUTH API
+Signup and Signin Auth API project built using Node.js, Express.js, MongoDB, Mongoose.
 <br><br>
 In the models folder mongoose scheema files are there.. in routes folder routes are specified.. In controllers node-express logics are written.
 <br><br>
@@ -17,4 +17,4 @@ Guideline:- <br>
     PORT=8000<br>
     SECRET=HDJGHDJGHDJKUTIYUOE8345UHDKFNSJFSITIEosdjidujfgjdje9urt34tketjksdlsd<br>
 </span>
-<span style="font-weight:bold">5. run nodemon</span>
+<span style="font-weight:bold">5. npm start</span>
